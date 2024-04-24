@@ -1,4 +1,4 @@
-<h1 align="center">Hi src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2FAdbros-jKkqqRlfzajljKVV5p&psig=AOvVaw00MkN2i-pi-0wO-5EpJ-w_&ust=1711974970987000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwjF5KzxwZ6FAxWoXGwGHQsnBKwQjRx6BAgAEBU", I'm Tanuja Suryawanshi</h1>
+<h1 align="center">Hi, I'm Tanuja Suryawanshi</h1>
 <h3 align="center">Hello! I'm [Tanuja], a dedicated student with a strong interest in computer science and problem-solving. Currently pursuing my degree in [BTECH in ENTC] at [NBNSCOE], I'm deeply engaged in learning and mastering various programming languages and algorithms.</h3>
 <img align="right" width=400 alt="coding" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.aalpha.net%2Farticles%2Ftop-software-ideas-for-startups%2F&psig=AOvVaw1zSNVjGK6Iwa6UQ3pPmrb4&ust=1711974618031000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwj0iIbJwJ6FAxVza2wGHQ8eDVwQjRx6BAgAEBU"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanujasuryawanshi&label=Profile%20views&color=0e75b6&style=flat" alt="tanujasuryawanshi" /> </p>
