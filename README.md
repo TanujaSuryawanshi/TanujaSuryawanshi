@@ -2,7 +2,6 @@
 <h3 align="center">Hello! I'm [Tanuja], a dedicated student with a strong interest in computer science and problem-solving. Currently pursuing my degree in [BTECH in ENTC] at [NBNSCOE], I'm deeply engaged in learning and mastering various programming languages and algorithms.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanujasuryawanshi&label=Profile%20views&color=0e75b6&style=flat" alt="tanujasuryawanshi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanujasuryawanshi" alt="tanujasuryawanshi" /></a> </p>
 
 - 🌱 I’m currently learning **Full stack developer,AWS**
 
