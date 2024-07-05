@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Tanuja Suryawanshi</h1>
 <h3 align="center">Hello! I'm [Tanuja], a dedicated student with a strong interest in computer science and problem-solving. Currently pursuing my degree in [BTECH in ENTC] at [NBNSCOE], I'm deeply engaged in learning and mastering various programming languages and algorithms.</h3>
-<p align="left"> <img src="https://img.freepik.com/premium-vector/young-woman-working-computer-home-vector-illustration-cartoon-style_1142-62905.jpg?w=740
+<p align="left"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fgirl-programmer&psig=AOvVaw2807XqaYjWAYRlMAJjx2gY&ust=1720274733975000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCODI8pOMkIcDFQAAAAAdAAAAABAE
 " alt="tanujasuryawanshi" /> </p>
 
 
