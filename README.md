@@ -1,11 +1,12 @@
 <h1 align="center">👋 Hi, I'm Tanuja Suryawanshi</h1>
 <h3 align="center">Hello! I'm [Tanuja], a dedicated student with a strong interest in computer science and problem-solving. Currently pursuing my degree in [BTECH in ENTC] at [NBNSCOE], I'm deeply engaged in learning and mastering various programming languages and algorithms.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanujasuryawanshi&label=Profile%20views&color=0e75b6&style=flat" alt="tanujasuryawanshi" /> </p>
+<p align="left"> <img src="![github_pic](https://github.com/TanujaSuryawanshi/TanujaSuryawanshi/assets/165241664/f0f5acc9-1ef1-4e8a-8f5c-92e0af67dfd3)
+" alt="tanujasuryawanshi" /> </p>
 
 
-- 🌱 I’m currently learning **Full stack developer,AWS**
+- 🌱 I’m currently learning **Full stack developer,UI/UX,AI**
 
-- 💬 Ask me about **PYTHON,DS,Mysql**
+- 💬 Ask me about **PYTHON,DS,Mysql,DBMS**
 
 - 📫 How to reach me **suryawanshitanuja2@gmail.com**
 
