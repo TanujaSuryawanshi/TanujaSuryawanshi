@@ -3,7 +3,7 @@
 <img src="https://static.vecteezy.com/system/resources/thumbnails/002/274/676/small_2x/woman-working-on-laptop-freelance-remote-working-online-studying-work-from-home-illustration-vector.jpg" width="300px" alt="tanujasuryawanshi"  align="right"/> 
 
 <p align="left">
-- 🌱 I’m currently learning **Backend Developer,UI/UX,AI**
+- 🌱 I’m currently learning **Backend Developer,UI/UX,AIML**
 
 - 💬 Ask me about ** Frontent Developer,PYTHON,DS,Mysql,DBMS**
 
