@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTByYWV3YWpoc3IzbjdlbTkzaGk2bmVqc3E4OHh2djgwMWRzNTBtZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jKkqqRlfzajljKVV5p/giphy.webp" width="100px" align="center">👋 Hi, I'm Tanuja Suryawanshi</h1>
+<h1 align="center"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTByYWV3YWpoc3IzbjdlbTkzaGk2bmVqc3E4OHh2djgwMWRzNTBtZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jKkqqRlfzajljKVV5p/giphy.webp" width="80px" align="center">Hi, I'm Tanuja Suryawanshi</h1>
 <h3 align="center">Hello! I'm [Tanuja], a dedicated student with a strong interest in computer science and problem-solving. Currently pursuing my degree in [BTECH in ENTC] at [NBNSCOE], I'm deeply engaged in learning and mastering various programming languages and algorithms.</h3>
 <img src="https://static.vecteezy.com/system/resources/thumbnails/002/274/676/small_2x/woman-working-on-laptop-freelance-remote-working-online-studying-work-from-home-illustration-vector.jpg" width="300px" alt="tanujasuryawanshi"  align="right"/> 
 
