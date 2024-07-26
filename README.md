@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Tanuja Suryawanshi</h1>
 <h3 align="center">Hello! I'm [Tanuja], a dedicated student with a strong interest in computer science and problem-solving. Currently pursuing my degree in [BTECH in ENTC] at [NBNSCOE], I'm deeply engaged in learning and mastering various programming languages and algorithms.</h3>
-<p align="right"> <img src="https://static.vecteezy.com/system/resources/thumbnails/002/274/676/small_2x/woman-working-on-laptop-freelance-remote-working-online-studying-work-from-home-illustration-vector.jpg" alt="tanujasuryawanshi" /> </p>
+<p align="right"> <img src="https://static.vecteezy.com/system/resources/thumbnails/002/274/676/small_2x/woman-working-on-laptop-freelance-remote-working-online-studying-work-from-home-illustration-vector.jpg" alt="tanujasuryawanshi" /> 
 
 <p align="left">
 - 🌱 I’m currently learning **Backend Developer,UI/UX,AI**
@@ -10,6 +10,7 @@
 - 📫 How to reach me **suryawanshitanuja2@gmail.com**
 
   <p/>
+  </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
