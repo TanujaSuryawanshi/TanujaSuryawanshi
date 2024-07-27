@@ -5,7 +5,7 @@
 <p align="left">
 - 🌱 I’m currently learning **Backend Developer,UI/UX,AIML**
 
-- 💬 Ask me about ** Frontent Developer,PYTHON,DS,Mysql,DBMS**
+- 💬 Ask me about ** Frontent Developer,PYTHON,DS,Mysql,DBMS,C**
 
 - 📫 How to reach me **suryawanshitanuja2@gmail.com**
 
