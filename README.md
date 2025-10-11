@@ -3,11 +3,11 @@
 <img src="https://static.vecteezy.com/system/resources/thumbnails/002/274/676/small_2x/woman-working-on-laptop-freelance-remote-working-online-studying-work-from-home-illustration-vector.jpg" width="300px" alt="tanujasuryawanshi"  align="right"  class="remove-bg"  mix-blend-mode="multiply"/> 
 
 <p align="left">
-- 🌱 I’m currently learning ** Backend Development, AIML **
+- 🌱 I’m currently learning ** Backend-Development, AIML **
  
-- 💬 Ask me about ** Frontent-Development, PYTHON, JAVA **
+- 💬 Ask me about ** Frontent-Development, Python, Mysql, Java **
 
-- 📫 How to reach me ** suryawanshitanuja2@gmail.com **
+- 📫 How to reach me ** suryawanshitanuja20@gmail.com **
 
   <p/>
   
